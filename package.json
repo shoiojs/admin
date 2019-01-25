@@ -1,0 +1,18 @@
+{
+  "name": "@shoio/admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shoio/server": "^2.0.3",
+    "jsonwebtoken": "^8.4.0"
+  }
+}
